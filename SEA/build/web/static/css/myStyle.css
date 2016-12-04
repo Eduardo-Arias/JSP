@@ -1,0 +1,31 @@
+/* 
+    Created on : 29/11/2016, 09:11:50 PM
+    Author     : eduardo
+*/
+#panelPrimary {
+    width: 80%;
+    margin: auto;
+}
+#panelPrimaryModificar{
+    width: 80%;
+    margin: auto;
+}
+#tabla-grupo{
+    margin: auto;
+    border-color: black;
+}
+
+#index{
+    font-family: 'Sanchez', serif;
+    font-size: 30px;
+}
+#string{
+    font-family: 'Pacifico', cursive;
+}
+#menu{
+    font-family: 'Handlee', cursive;
+    font-size: 18px;
+}
+#submenu{
+    font-family: 'Enriqueta', serif;
+}
